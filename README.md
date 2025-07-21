@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-HSC 26 Science Student | Building Skills in Penetration, DFIR, and Threat Detection, Red & Blue Team Path | CCNA (Networking) | Growing Skills in Python, C, HTML, Bash, and DSA | Music and books lover | Lifelong Learner | Building my place in the Cyber World
+HSC 26 Science Student | Building Skills in Penetration, Red Team & DFIR | CCNA (Networking) | Growing Skills in Bash, PowerShell, GO, Python,(JavaScript) DSA, C, and Assembly. | Music and books lover | Lifelong Learner|Building my place in the Cyber World.
 </h3>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rajtalukder159&style=flat-square&color=blue)
@@ -13,7 +13,7 @@ HSC 26 Science Student | Building Skills in Penetration, DFIR, and Threat Detect
 
 ## 🔍 About Me
 
-I'm a passionate **cybersecurity learner** and aspiring **ethical hacker** currently pursuing my HSC (Science, 2026). I’m working through hands-on courses and labs to gain strong skills in both **Red Teaming** and **Blue Team Defense**.
+I'm a passionate **cybersecurity learner** and aspiring **ethical hacker** currently pursuing my HSC (Science, 2026). I’m working through hands-on courses and labs to gain strong skills in both **Red Teaming** and **DFIR**.
 
 ---
 
