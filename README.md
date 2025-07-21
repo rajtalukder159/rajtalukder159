@@ -62,7 +62,6 @@ I enjoy capturing my learning journey and helping others grow in the cybersecuri
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-1f1f1f?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=data&logoColor=white)
 
 ### 🧰 Tools:
