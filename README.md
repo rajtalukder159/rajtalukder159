@@ -105,9 +105,11 @@ A collection of real-world cybersecurity tools, tests, and research documentatio
 [![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-Yes-success?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://ostad.app)
 [![Skill Verified](https://img.shields.io/badge/Skill-Verified-green?style=for-the-badge&logo=Ostad)](https://ostad.app)
 
-👾 **[Cyber Security & Ethical Hacking Career Track](https://ostad.app/share/certificate/a27041-shimon-talukder-raj)**  
-🤖 **[AI Concepts by Microsoft](https://learn.microsoft.com/en-us/users/shimontalukder-6374/achievements/xqmrgz8y)**
+👾 **[Cyber Security & Ethical Hacking Career Track](https://ostad.app/share/certificate/a27041-shimon-talukder-raj)**
+🎓 **[SQL Injection for Beginners – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIyNDM3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDc4MTc0OV8xNzA1MTQ2NDA5LnBuZyIsInVzZXJuYW1lIjoiU2hpbW9uIHRhbHVrZGVyIHJhaiJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F5141%2FSQL-Injection-For-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1396509962909187433&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVDzb2Sywzsci3DE2yrytKTUstKsrMS49PKsovL04tsnVNSU8FAHLeeS89AAAA)**
+🔐 **[Introduction to Cryptography for Beginners – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxOTcwIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDc4MDQxM18xNzA1MDc3NTUyLnBuZyIsInVzZXJuYW1lIjoiU2hpbW9uIHRhbHVrZGVyIHJhaiJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4590%2FIntroduction-to-Cryptography-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1396509962909187433&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN60ML09PSi%2BwDE2yrytKTUstKsrMS49PKsovL04tsnVNSU8FALlLe9A9AAAA)**
 💻 **[Code with JavaScript](https://ostad.app/share/certificate/c23451-shimon-talukder-raj)**
+🤖 **[AI Concepts by Microsoft](https://learn.microsoft.com/en-us/users/shimontalukder-6374/achievements/xqmrgz8y)**
 💼 **[Microsoft Office](https://10minuteschool.com/certificate/67cec609d1f0a/)**
 🎤 **[Presentation & Public Speaking](https://10minuteschool.com/certificate/643792c61516a/)**
 
