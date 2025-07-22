@@ -12,8 +12,7 @@ HSC 26 Science Student | Building Skills in Penetration, Red Team & DFIR | CCNA 
 </div>
 
 ## 🔍 About Me
-
-I'm a passionate **cybersecurity learner** and aspiring **ethical hacker** currently pursuing my HSC (Science, 2026). I’m working through hands-on courses and labs to gain strong skills in both **Red Teaming** and **DFIR**.
+I'm a passionate cybersecurity learner and aspiring ethical hacker currently pursuing my **HSC (Science, 2026)** and building skills in **Red Teaming** and **Digital Forensics & Incident Response (DFIR).**
 
 ---
 
@@ -35,11 +34,22 @@ I'm a passionate **cybersecurity learner** and aspiring **ethical hacker** curre
 
 ---
 
+### 📜 Courses Completed
+
+✅ **Cyber Security & Ethical Hacking Career Track** – *Ostad* (March 2025)  
+✅ **SQL Injection for Beginners** – *Simplilearn* (Jan 2024)  
+✅ **Fundamentals of AI** – *Microsoft* (April 2025)  
+✅ **Code with JavaScript** – *Ostad* (March 2025)  
+✅ **Microsoft Office Specialist Certificate** – *10 Minute School* (March 2025)  
+✅ **Presentation & Public Speaking** – *10 Minute School* (April 2023)
+
+---
+
 ### 🧠 Currently Learning:
-- 📘 **CCNA 200-301** (Simplilearn)  
-- 🔐 **Career Essentials in Cybersecurity** (LinkedIn x Microsoft)  
-- 🌐 **Red & Blue Team Paths** (TryHackMe)  
-- 🐍 Programming in **Python, C, HTML, Bash**, and DSA
+- 📘 **CCNA 200-301** – *Simplilearn*  
+- 🔐 **Career Essentials in Cybersecurity** – *LinkedIn x Microsoft*  
+- 🌐 **TryHackMe Red & Blue Team Paths**  
+- 🐍 **Programming for Cybersecurity** – *Let's Defend*
 
 ---
 
@@ -57,32 +67,20 @@ I enjoy capturing my learning journey and helping others grow in the cybersecuri
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### 👨‍💻 Languages:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-1f1f1f?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=data&logoColor=white)
+### 👨‍💻 Languages & Concepts:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-1f1f1f?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-FFA500?style=for-the-badge&logo=assemblyscript&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-FFA500?style=for-the-badge&logo=code&logoColor=white)
 
-### 🧰 Tools:
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-4E8EE9?style=for-the-badge)
-![SQLMap](https://img.shields.io/badge/SQLMap-9B59B6?style=for-the-badge)
-![MobSF](https://img.shields.io/badge/MobSF-000000?style=for-the-badge)
+---
 
-![Nessus](https://img.shields.io/badge/Nessus-003366?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-0070C0?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![RED HAWK](https://img.shields.io/badge/RED_HAWK-CC0000?style=for-the-badge&logo=target&logoColor=white)
-![WebGoat](https://img.shields.io/badge/WebGoat-800000?style=for-the-badge&logo=goat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🧰 Cybersecurity Tools:
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-4E8EE9?style=for-the-badge) ![SQLMap](https://img.shields.io/badge/SQLMap-9B59B6?style=for-the-badge) ![MobSF](https://img.shields.io/badge/MobSF-000000?style=for-the-badge) 
 
+![Nessus](https://img.shields.io/badge/Nessus-003366?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-0070C0?style=for-the-badge&logo=gnometerminal&logoColor=white) ![RED HAWK](https://img.shields.io/badge/RED_HAWK-CC0000?style=for-the-badge&logo=target&logoColor=white) ![WebGoat](https://img.shields.io/badge/WebGoat-800000?style=for-the-badge&logo=goat&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### ☁️ Cloud Recon:
-![LazyS3](https://img.shields.io/badge/LazyS3-333333?style=for-the-badge)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge)
-![Censys](https://img.shields.io/badge/Censys-0073CF?style=for-the-badge)
-![CyberChef](https://img.shields.io/badge/CyberChef-5A5A5A?style=for-the-badge&logo=apache&logoColor=white)
+---
+
+### ☁️ Cloud & Recon:
+![LazyS3](https://img.shields.io/badge/LazyS3-333333?style=for-the-badge) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge) ![Censys](https://img.shields.io/badge/Censys-0073CF?style=for-the-badge) ![CyberChef](https://img.shields.io/badge/CyberChef-5A5A5A?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
