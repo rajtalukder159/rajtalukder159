@@ -56,7 +56,7 @@ I'm a passionate cybersecurity learner and aspiring ethical hacker currently pur
 You can view/download my CV here 👉 [Shimon Talukder Raj - CV](https://rajtalukder159.github.io/portfolio/assets/my-cv.pdf)
 
 ## 🌐 Portfolio Website
-Check out my personal website here 👉 [Shimon Talukder Raj](https://github.com/rajtalukder159.))
+Check out my personal website here 👉 [Shimon Talukder Raj](https://github.com/rajtalukder159.)
 
 ---
 
