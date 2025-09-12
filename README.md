@@ -50,6 +50,13 @@ I'm a passionate cybersecurity learner and aspiring ethical hacker currently pur
 - 🔐 **Career Essentials in Cybersecurity** – *LinkedIn x Microsoft*  
 - 🌐 **TryHackMe Red & Blue Team Paths**  
 - 🐍 **Programming for Cybersecurity** – *Let's Defend*
+---
+
+## 📄 My CV
+You can view/download my CV here 👉 [Shimon Talukder Raj - CV](https://rajtalukder159.github.io/portfolio/assets/my-cv.pdf)
+
+## 🌐 Portfolio Website
+Check out my personal website here 👉 [Shimon Talukder Raj](https://github.com/rajtalukder159.))
 
 ---
 
