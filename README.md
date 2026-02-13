@@ -93,17 +93,27 @@ I enjoy capturing my learning journey and helping others grow in the cybersecuri
 
 ## 🚀 Featured Projects
 
-### 🔎 AWS S3 Bucket Enumeration
-Automated scanning of open S3 buckets with **LazyS3** and documented findings for cloud security awareness.
+### 1. 🔗 [CyberSecurity Project](https://github.com/rajtalukder159/CyberSecurity-Project)
+A structured cybersecurity learning portfolio demonstrating hands-on labs and practical skills across multiple domains:  
+- **Project Structure:** From Lab Setup → Reconnaissance → Assessment → Exploitation → Web & System Security → Cloud & Forensics → Governance & Compliance  
+- **Tools & Technologies:** Metasploit, Burp Suite, OWASP ZAP, SQLMap, LazyS3, VirusTotal, DIE Tool, Wireshark, OpenVAS, Nessus  
+- **Skills Demonstrated:** Vulnerability Assessment, Exploitation, Web & Network Attacks, Malware Analysis, Cloud Enumeration, Active Directory, Security Audit Lifecycle  
 
-### 🛡️ Web App Vulnerability Testing
-Used **ZAP** & **Burp Suite** to uncover misconfigurations, XSS, and SQLi in vulnerable labs.
+### 2. 🐳 [Docker-based Debian Lab Projects](https://github.com/rajtalukder159/docker-debian-lab)
+A two-part cybersecurity lab project using Docker and Debian to simulate practical Red Team scenarios:  
 
-### 🔬 Malware & Binary Analysis
-Analyzed Android and ELF binaries using **MobSF**, **APKTool**, and **Java Decompiler**.
+- **Purpose:** Practice containerized environments, learn web server deployment, build Red Team & penetration testing skills.  
+- **Part 1 — Building the Target Server:**  
+  - Topics: Docker intro, pulling Debian image, running containers, Apache setup, port mapping, ServerName fixes (with screenshots)  
+- **Part 2 — Enumeration & Security Testing:**  
+  - Topics: Attacker tools overview (Kali Linux, Nmap, Nikto), scanning & enumeration methodology, findings, lessons learned, best practices  
 
-### 🔗 [CyberSecurity Project Repository](https://github.com/rajtalukder159/CyberSecurity-Project)
-A collection of real-world cybersecurity tools, tests, and research documentation.
+### 3. 💻 [DSA-Practice-GeeksforGeeks](https://github.com/rajtalukder159/DSA-Practice-GeeksforGeeks)
+Collection of **Data Structures & Algorithms (DSA)** problems and solutions for coding practice and algorithm mastery:  
+
+- **Topics Covered:** Arrays, Strings, Linked Lists, Stacks & Queues, Trees & Binary Trees, Binary Search, Sorting Algorithms, Recursion & Backtracking, Graphs, Dynamic Programming (DP)  
+- **Tech Stack:** C++, Python, Java, VS Code
+
 
 ---
 # 📜 Certificates
