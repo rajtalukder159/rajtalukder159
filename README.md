@@ -1,14 +1,15 @@
-![](https://media.licdn.com/dms/image/v2/D5616AQEnUoVVPhjA_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711456067307?e=1753920000&v=beta&t=M3B_KK6O3zahEwz0R-VH0J0cH23D13b86cgvLI43Nss)
+<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
 <div align="center">
-<h1><img height="80" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> hey, I am Shimon Talukder Raj  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shimon%20Talukder%20Raj&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <h3 align="center">
 HSC 26 Science Student | Building Skills in Penetration, Red Team & DFIR | CCNA (Networking) | Growing Skills in Bash, PowerShell, GO, Python,(JavaScript) DSA, C, and Assembly. | Music and books lover | Lifelong Learner|Building my place in the Cyber World.
 </h3>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rajtalukder159&style=flat-square&color=blue)
+ <a href="https://komarev.com/ghpvc/?username=rajtalukder159">
+    <img src="https://komarev.com/ghpvc/?username=rajtalukder159&label=Profile%20views&color=00FFFF&style=flat-square" alt="rajtalukder159's profile views" />
+</a>
 </div>
 
 ## 🔍 About Me
@@ -123,9 +124,13 @@ Collection of **Data Structures & Algorithms (DSA)** problems and solutions for 
 [![Skill Verified](https://img.shields.io/badge/Skill-Verified-green?style=for-the-badge&logo=Ostad)](https://ostad.app)
 
 👾 **[Cyber Security & Ethical Hacking Career Track](https://ostad.app/share/certificate/a27041-shimon-talukder-raj)**
+
 🎓 **[SQL Injection for Beginners – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIyNDM3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDc4MTc0OV8xNzA1MTQ2NDA5LnBuZyIsInVzZXJuYW1lIjoiU2hpbW9uIHRhbHVrZGVyIHJhaiJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F5141%2FSQL-Injection-For-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1396509962909187433&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVDzb2Sywzsci3DE2yrytKTUstKsrMS49PKsovL04tsnVNSU8FAHLeeS89AAAA)**
+
 🔐 **[Introduction to Cryptography for Beginners – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxOTcwIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDc4MDQxM18xNzA1MDc3NTUyLnBuZyIsInVzZXJuYW1lIjoiU2hpbW9uIHRhbHVrZGVyIHJhaiJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4590%2FIntroduction-to-Cryptography-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1396509962909187433&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN60ML09PSi%2BwDE2yrytKTUstKsrMS49PKsovL04tsnVNSU8FALlLe9A9AAAA)**
+
 💻 **[Code with JavaScript](https://ostad.app/share/certificate/c23451-shimon-talukder-raj)**
+
 🤖 **[AI Concepts by Microsoft](https://learn.microsoft.com/en-us/users/shimontalukder-6374/achievements/xqmrgz8y)**
 💼 **[Microsoft Office](https://10minuteschool.com/certificate/67cec609d1f0a/)**
 🎤 **[Presentation & Public Speaking](https://10minuteschool.com/certificate/643792c61516a/)**
@@ -150,27 +155,23 @@ Collection of **Data Structures & Algorithms (DSA)** problems and solutions for 
 
 ## 📊 GitHub Activity
 <div align="left">
-<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<img src="https://streak-stats.demolab.com/?user=rajtalukder159&theme=radical&hide_border=true&cache_seconds=86400" alt="rajtalukder159's GitHub Streak" width="49%" />
+</div>  
 <div align="Center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajtalukder159&count_private=true&show_icons=true&theme=algolia" />
-</div>
-<div align="right">
-<img src="https://api.vaunt.dev/v1/github/entities/rajtalukder159/contributions?format=svg&private=false" height="220" alt="streak graph"  />
-</div>
-<div align="Center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajtalukder159&theme=darkhub]https://github.com/ryo-ma/github-profile-trophy" />
+<img src="https://trophy.ryglcloud.net/?username=rajtalukder159&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shimon talukder raj 's GitHub Trophies" />
 </div>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajtalukder159&theme=github-dark)
 
 ###
-
+<div align="Center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajtalukder159/rajtalukder159/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajtalukder159/rajtalukder159/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rajtalukder159/rajtalukder159/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajtalukder159/rajtalukder159/output/Space shooter contribution graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajtalukder159/rajtalukder159/output/Space shooter contribution graph.svg">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 </picture>
+</div>
 
 ###
 
