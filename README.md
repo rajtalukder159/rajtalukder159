@@ -30,15 +30,15 @@ I'm a passionate cybersecurity learner and aspiring ethical hacker currently pur
 
 ✅ **Cyber Security & Ethical Hacking Career Track** – *Ostad* 
 
-✅**Career Essentials in Cybersecurity** – *LinkedIn x Microsoft*
+✅ **Career Essentials in Cybersecurity** – *LinkedIn x Microsoft*
 
 ✅ **CCNA 200-301** – *Simplilearn* 
 
 ✅ **SQL Injection** – *Simplilearn*
 
-✅ **Fundamentals of AI** – *Microsoft*   
+✅ **Introduction to Cryptography** - *simplilearn*
 
-✅ **Code with JavaScript** – *Ostad* 
+✅ **AI Concepts** – *Microsoft*   
 
 ✅ **Microsoft Office Specialist Certificate** – *10 Minute School*  
 
@@ -124,9 +124,9 @@ Collection of **Data Structures & Algorithms (DSA)** problems and solutions for 
 
 👾 **[Cyber Security & Ethical Hacking Career Track](https://ostad.app/share/certificate/a27041-shimon-talukder-raj)**
 
-🎓 **[SQL Injection for Beginners – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIyNDM3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDc4MTc0OV8xNzA1MTQ2NDA5LnBuZyIsInVzZXJuYW1lIjoiU2hpbW9uIHRhbHVrZGVyIHJhaiJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F5141%2FSQL-Injection-For-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1396509962909187433&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVDzb2Sywzsci3DE2yrytKTUstKsrMS49PKsovL04tsnVNSU8FAHLeeS89AAAA)**
+🎓 **[SQL Injection – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIyNDM3IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDc4MTc0OV8xNzA1MTQ2NDA5LnBuZyIsInVzZXJuYW1lIjoiU2hpbW9uIHRhbHVrZGVyIHJhaiJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F5141%2FSQL-Injection-For-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1396509962909187433&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVDzb2Sywzsci3DE2yrytKTUstKsrMS49PKsovL04tsnVNSU8FAHLeeS89AAAA)**
 
-🔐 **[Introduction to Cryptography for Beginners – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxOTcwIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDc4MDQxM18xNzA1MDc3NTUyLnBuZyIsInVzZXJuYW1lIjoiU2hpbW9uIHRhbHVrZGVyIHJhaiJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4590%2FIntroduction-to-Cryptography-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1396509962909187433&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN60ML09PSi%2BwDE2yrytKTUstKsrMS49PKsovL04tsnVNSU8FALlLe9A9AAAA)**
+🔐 **[Introduction to Cryptography – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxOTcwIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDc4MDQxM18xNzA1MDc3NTUyLnBuZyIsInVzZXJuYW1lIjoiU2hpbW9uIHRhbHVrZGVyIHJhaiJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4590%2FIntroduction-to-Cryptography-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1396509962909187433&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN60ML09PSi%2BwDE2yrytKTUstKsrMS49PKsovL04tsnVNSU8FALlLe9A9AAAA)**
 
 💻 **[Code with JavaScript](https://ostad.app/share/certificate/c23451-shimon-talukder-raj)**
 
