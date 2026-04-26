@@ -26,35 +26,27 @@ I'm a passionate cybersecurity learner and aspiring ethical hacker currently pur
 
 ---
 
-### 💡 Tools I’ve Worked With:
-
-**Burp Suite**, **OWASP ZAP**, **Metasploit**, **SQLMap**,  
-**MobSF**, **LazyS3**, **Nessus**, **Nmap**,  
-**RED HAWK**, **WebGoat**, **Wireshark**, **Autopsy**,  
-**Volatility**, **YARA**, **OpenVAS**, **Aircrack-ng**, and more.
-
----
-
 ### 📜 Courses Completed
 
-✅ **Cyber Security & Ethical Hacking Career Track** – *Ostad* (March 2025)  
-✅ **SQL Injection for Beginners** – *Simplilearn* (Jan 2024)  
-✅ **Fundamentals of AI** – *Microsoft* (April 2025)  
-✅ **Code with JavaScript** – *Ostad* (March 2025)  
-✅ **Microsoft Office Specialist Certificate** – *10 Minute School* (March 2025)  
-✅ **Presentation & Public Speaking** – *10 Minute School* (April 2023)
+✅ **Cyber Security & Ethical Hacking Career Track** – *Ostad* 
+✅**Career Essentials in Cybersecurity** – *LinkedIn x Microsoft* 
+✅ **CCNA 200-301** – *Simplilearn* 
+✅ **SQL Injection** – *Simplilearn* 
+✅ **Fundamentals of AI** – *Microsoft*   
+✅ **Code with JavaScript** – *Ostad* 
+✅ **Microsoft Office Specialist Certificate** – *10 Minute School*   
+✅ **Presentation & Public Speaking** – *10 Minute School* 
 
 ---
 
 ### 🧠 Currently Learning:
-- 📘 **CCNA 200-301** – *Simplilearn*  
-- 🔐 **Career Essentials in Cybersecurity** – *LinkedIn x Microsoft*  
-- 🌐 **TryHackMe Red & Blue Team Paths**  
+
+- 🌐 **Red & Blue Team Paths** - *TryHackMe* 
 - 🐍 **Programming for Cybersecurity** – *Let's Defend*
 ---
 
 ## 📄 My CV
-You can view/download my CV here 👉 [Shimon Talukder Raj - CV](https://rajtalukder159.github.io/portfolio/assets/my-cv.pdf)
+You can view/download my CV here 👉 [Shimon Talukder Raj - CV](https://rajtalukder159.github.io/portfolio/assets/Shimon talukder raj _ cv.pdf)
 
 ## 🌐 Portfolio Website
 Check out my personal website here 👉 [Shimon Talukder Raj](https://github.com/rajtalukder159.)
