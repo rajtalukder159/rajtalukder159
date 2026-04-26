@@ -29,12 +29,19 @@ I'm a passionate cybersecurity learner and aspiring ethical hacker currently pur
 ### 📜 Courses Completed
 
 ✅ **Cyber Security & Ethical Hacking Career Track** – *Ostad* 
-✅**Career Essentials in Cybersecurity** – *LinkedIn x Microsoft* 
+
+✅**Career Essentials in Cybersecurity** – *LinkedIn x Microsoft*
+
 ✅ **CCNA 200-301** – *Simplilearn* 
-✅ **SQL Injection** – *Simplilearn* 
+
+✅ **SQL Injection** – *Simplilearn*
+
 ✅ **Fundamentals of AI** – *Microsoft*   
+
 ✅ **Code with JavaScript** – *Ostad* 
-✅ **Microsoft Office Specialist Certificate** – *10 Minute School*   
+
+✅ **Microsoft Office Specialist Certificate** – *10 Minute School*  
+
 ✅ **Presentation & Public Speaking** – *10 Minute School* 
 
 ---
@@ -46,7 +53,7 @@ I'm a passionate cybersecurity learner and aspiring ethical hacker currently pur
 ---
 
 ## 📄 My CV
-You can view/download my CV here 👉 [Shimon Talukder Raj - CV](https://rajtalukder159.github.io/portfolio/assets/Shimon talukder raj _ cv.pdf)
+You can view/download my CV here 👉 [Shimon Talukder Raj - CV](https://github.com/rajtalukder159/portfolio/blob/main/assets/Shimon%20talukder%20raj%20_%20cv.pdf)
 
 ## 🌐 Portfolio Website
 Check out my personal website here 👉 [Shimon Talukder Raj](https://github.com/rajtalukder159.)
