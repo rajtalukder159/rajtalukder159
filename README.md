@@ -3,8 +3,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shimon%20Talukder%20Raj&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<h1 align="center">Shimon Talukder Raj</h1>
-
 <p align="center">
   <b>Aspiring Cybersecurity Professional &amp; Public Speaker</b><br />
   Red Teaming · DFIR · Web &amp; Network Security
@@ -26,7 +24,7 @@
 ---
 
 ## 🔍 About Me
-
+<div align="left">
 Shimon Talukder Raj (Raj), online as `rajtalukder159`, is an aspiring cybersecurity professional and public speaker from Bangladesh, focused on red teaming, digital forensics and incident response (DFIR), and web and network security.
 
 I learn by doing: labs, hands-on projects and written reports. I also enjoy music, books and sharing what I learn with others.
@@ -141,6 +139,7 @@ Data Structures &amp; Algorithms problems and solutions for practice.
 - ✍️ Publish free cybersecurity guides and lab write-ups
 - 🤝 Collaborate on open-source security projects
 - 🎓 Build a strong career in cybersecurity
+</div>
 
 ---
 
@@ -155,13 +154,6 @@ Data Structures &amp; Algorithms problems and solutions for practice.
 </div>
 
 ![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=rajtalukder159&theme=github-dark)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajtalukder159/rajtalukder159/output/Space%20shooter%20contribution%20graph.svg" />
-    <img src="https://raw.githubusercontent.com/rajtalukder159/rajtalukder159/output/Space%20shooter%20contribution%20graph.svg" alt="Space shooter contribution graph" />
-  </picture>
-</div>
 
 ---
 
